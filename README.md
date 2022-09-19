@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Sittisukintaruk/bookmark-landing-page-master](https://github.com/Sittisukintaruk/bookmark-landing-page-master)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL here](https://inquisitive-marshmallow-7dd1aa.netlify.app/)
 
 ## My process
 
